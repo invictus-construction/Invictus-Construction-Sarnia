@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Invictus Construction</title>
+    <title>Invictus Construction Sarnia</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -12,7 +12,7 @@
             color: #333;
         }
         header {
-            background-color: #1a1a1a;
+            background-color:rgba(4, 4, 182, 0.897);
             color: white;
             padding: 20px;
             text-align: center;
@@ -79,7 +79,7 @@
 <body>
 
 <header>
-    <h1>Invictus Construction</h1>
+    <h1>Invictus Construction Sarnia</h1>
     <p>"Building Your Dreams, One Project at a Time!"</p>
 </header>
 
@@ -92,7 +92,7 @@
 <main>
     <section id="about">
         <h2>About Us</h2>
-        <p>At Invictus Construction, we are capable of anything you can think of! From framing new builds to transforming your existing spaces, we bring passion, precision, and expertise to every project. Let us help you turn your vision into reality.</p>
+        <p>At Invictus Construction Sarnia, we are capable of anything you can think of! From framing additions to transforming your existing spaces, we bring passion, precision, and expertise to every project. Let us help you turn your vision into reality.</p>
     </section>
 
     <section id="services">
@@ -125,7 +125,7 @@
 </main>
 
 <footer>
-    <p>&copy; 2025 Invictus Construction. All rights reserved.</p>
+    <p>&copy; 2025 Invictus Construction Sarnia. All rights reserved.</p>
 </footer>
 
 </body>
