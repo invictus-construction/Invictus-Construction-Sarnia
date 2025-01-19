@@ -99,17 +99,17 @@
         <h2>Our Services</h2>
         <div class="services">
             <div class="service">
-                <img src="https://via.placeholder.com/300x200" alt="New Roof">
+                <img src="Roof Sheeting.jpg" alt="New Roof">
                 <h3>New Roofs</h3>
                 <p>Need a new roof? We have you and your house covered!</p>
             </div>
             <div class="service">
-                <img src="https://via.placeholder.com/300x200" alt="Bathroom Renovations">
+                <img src="Main bathroom finish.jpg" alt="Bathroom Renovations">
                 <h3>Bathroom Renovations</h3>
                 <p>We can transform your outdated bathroom into a luxurious retreat!</p>
             </div>
             <div class="service">
-                <img src="https://via.placeholder.com/300x200" alt="Kitchen Remodels">
+                <img src="Laundry Room Complete.jpg" alt="Tiling and other projects">
                 <h3>Other Renovations</h3>
                 <p>Let us bring your dreams to reality, tailored to your needs and style.</p>
             </div>
